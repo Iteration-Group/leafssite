@@ -2,5 +2,7 @@ body {
   background-image: url("icon.png");
   background-repeat: no-repeat;
   background-position: right top;
-  margin-right: 200px;
+  margin-right: 180px;
+  background-image: url(leaf.jpg");
+  background-color: #cccccc;
 }
